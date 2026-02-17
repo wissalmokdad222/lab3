@@ -23,7 +23,9 @@
 - Vérifier que le listener est activé (Enabled)  
 - Noter : port `<PORT_PROXY>` et adresse d’écoute (Loopback / All interfaces)  
 
-**Capture :**  
+**Capture :** 
+![IP Hôte](https://github.com/user-attachments/assets/8c238456-e258-47d6-9f4f-9d5845aad160)
+![IP Hôte](https://github.com/user-attachments/assets/c4d74d85-badb-4a87-a1c9-8ee9e723c93a)
 ![Proxy Listener](https://github.com/user-attachments/assets/b3552eca-12bd-4a61-9977-6c5bf6bc3205)  
 
 ---
@@ -32,8 +34,7 @@
 - Sur la machine hôte, récupérer l’adresse IPv4 utilisée pour le réseau du labo  
 - Noter l’IP : `<IP_HOTE>`  
 
-**Captures :**  
-![IP Hôte](https://github.com/user-attachments/assets/c4d74d85-badb-4a87-a1c9-8ee9e723c93a) 
+**Captures :**   
 ![IP Hôte](https://github.com/user-attachments/assets/1bbab50e-68e0-41c2-a7f1-05bec8553050)  
  
 ---
