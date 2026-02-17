@@ -14,7 +14,7 @@
 
 **Captures :**  
 ![Intercept Off](https://github.com/user-attachments/assets/a5a72ba5-ad30-445b-9838-81f205f85fe0)  
-![Intercept Off](https://github.com/user-attachments/assets/68ae9144-6309-442d-a2b1-dd7f0b2baa2f)  
+![Intercept Off](https://github.com/user-attachments/assets/47b1a4ba-704e-4d48-b8d8-7f88aa4fad7e)  
 
 ---
 
