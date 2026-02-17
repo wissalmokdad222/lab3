@@ -1,4 +1,4 @@
-# Observation du trafic Android avec Burp Suite
+# LAB 3 : Observation du trafic HTTP(S) Android avec Burp Suite
 
 ## Contexte
 - Émulateur Android utilisé pour un labo sûr  
@@ -24,7 +24,7 @@
 - Noter : port `<PORT_PROXY>` et adresse d’écoute (Loopback / All interfaces)  
 
 **Capture :**  
-![Proxy Listener](https://github.com/user-attachments/assets/aa0519ea-23d0-4a92-aa5f-cd6b2b49bf66)  
+![Proxy Listener](https://github.com/user-attachments/assets/b3552eca-12bd-4a61-9977-6c5bf6bc3205)  
 
 ---
 
@@ -33,9 +33,9 @@
 - Noter l’IP : `<IP_HOTE>`  
 
 **Captures :**  
-![IP Hôte](https://github.com/user-attachments/assets/b3552eca-12bd-4a61-9977-6c5bf6bc3205)  
-![IP Hôte](https://github.com/user-attachments/assets/c4d74d85-badb-4a87-a1c9-8ee9e723c93a)  
-
+![IP Hôte](https://github.com/user-attachments/assets/c4d74d85-badb-4a87-a1c9-8ee9e723c93a) 
+![IP Hôte](https://github.com/user-attachments/assets/1bbab50e-68e0-41c2-a7f1-05bec8553050)  
+ 
 ---
 
 ## 4. Configurer le proxy sur l’émulateur
